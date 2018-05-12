@@ -25,6 +25,8 @@ description: 'Hilaire Belloc, a great English essayist of the 20th century, take
   and its history, who is curious about the rise of the major papers and media networks,
   and about the forces both overt and semi-covert working to shape what is reported
   and which opinions are sanctioned.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18018#The-Free-Press
 gutenberg_issued: '2006-03-19'
 gutenberg_type: Text
 identifiers:
