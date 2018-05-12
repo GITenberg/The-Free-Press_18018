@@ -1,0 +1,41 @@
+_repo: The-Free-Press_18018
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+description: 'Hilaire Belloc, a great English essayist of the 20th century, takes
+  an uncompromising look at the forces working against the freedom of the press. Targeting
+  financial and political influences, along with the influence of advertising, Belloc
+  exposes the powers and motives responsible for the suppression of news and the manufacturing
+  of opinion. Neither pie-in-the-sky idealism nor an irrational conspiracy theory,
+  The Free Press is a rationally argued essay explaining the origins of those influences
+  and factors that make the press less than what it should be honest: fair, and independent.
+  This is a topical work written almost a century ago. Times have changed, but the
+  situation has gone from bad to worse, and thus this work is even more relevant today.
+  This book will be of interest to anyone, particularly the student of journalism
+  and its history, who is curious about the rise of the major papers and media networks,
+  and about the forces both overt and semi-covert working to shape what is reported
+  and which opinions are sanctioned.'
+gutenberg_issued: '2006-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Freedom of the press'
+- !lcsh 'Journalism -- Corrupt practices'
+title: The Free Press
+url: http://www.gutenberg.org/ebooks/18018
